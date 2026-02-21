@@ -150,5 +150,45 @@ Cross Validation Used:
 
 ## Real-time Prediction System
 
-Example:
+Example: predict_earthquake(24.89,91.87,35,2025,12)
+
+Output:EARTHQUAKE DETECTED
+
+Risk Probability: XX %
+
+Predicted Magnitude: X.X
+
+---
+
+## Installation
+
+pip install -r requirements.txt
+
+---
+
+## Run Project
+
+Run Notebook:
+
+notebook/earthquake_prediction.ipynb
+
+---
+
+## Author
+
+Nuhash
+
+Department of CSE
+
+Metropolitan University Sylhet
+
+
+---
+
+## License
+
+MIT License
+
+
+
 
