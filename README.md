@@ -1,7 +1,3 @@
-# Earthquake-Prediction-ML
-Machine Learning Based Earthquake Risk Classification and Magnitude Prediction using Real USGS Data.
-
-
 # Earthquake Prediction using Machine Learning
 
 ## Overview
@@ -150,9 +146,13 @@ Cross Validation Used:
 
 ## Real-time Prediction System
 
-Example: predict_earthquake(24.89,91.87,35,2025,12)
+Example:
 
-Output:EARTHQUAKE DETECTED
+predict_earthquake(24.89,91.87,35,2025,12)
+
+Output:
+
+EARTHQUAKE DETECTED
 
 Risk Probability: XX %
 
@@ -176,7 +176,7 @@ notebook/earthquake_prediction.ipynb
 
 ## Author
 
-Nuhash
+Nayem Talukder
 
 Department of CSE
 
